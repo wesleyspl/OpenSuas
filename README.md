@@ -1,6 +1,6 @@
-# 🏛️ Gsuas– Sistema Único de Assistência Social
+# 🏛️ OpenSuas– Sistema Único de Assistência Social
 
-**Gsuas** é um sistema web desenvolvido para auxiliar na gestão de atendimentos e serviços socioassistenciais prestados por órgãos públicos como CRAS e CREAS, com foco em famílias, indivíduos, atendimentos, endereços históricos e programas como PAIF, PAEF, Cadastro Único e outros.
+**OpenSuas** é um sistema web desenvolvido para auxiliar na gestão de atendimentos e serviços socioassistenciais prestados por órgãos públicos como CRAS e CREAS, com foco em famílias, indivíduos, atendimentos, endereços históricos e programas como PAIF, PAEF, Cadastro Único e outros.
 
 > ⚙️ Desenvolvido com Laravel 11 + AdminLTE 3
 
